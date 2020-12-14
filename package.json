@@ -1,7 +1,7 @@
 {
   "name": "react-stripe-js",
   "version": "1.0.0",
-    "homepage": "https://harry811016.github.io/stripeTest-react-node",
+  "homepage": "https://harry811016.github.io/stripe-test-react-node/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",

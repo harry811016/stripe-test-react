@@ -143,6 +143,7 @@ const SplitForm = (CLIENT_SECRET) => {
         <button type="submit" disabled={!stripe}>
           Pay
         </button>
+        <label> Do not click twice!</label>
       </form>
       <div>
         <h4>test card info.</h4>
