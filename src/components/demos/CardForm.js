@@ -108,7 +108,7 @@ const CardForm = (CLIENT_SECRET) => {
         <li>ZIP: 00001</li>
       </div>
       <div>
-        <h1>Step 3</h1>
+        <h2>Step 4: Get the result from stripe</h2>
         <h4>payment result:</h4>
         {Object.keys(payment).map((key) => {
           const value = payment[key];

@@ -151,7 +151,7 @@ const SplitForm = (CLIENT_SECRET) => {
         <li>date: any future date</li>
         <li>CVC: any 3 digits</li>
       </div>
-      <h1>Step 3</h1>
+      <h2>Step 4: Get the result from stripe</h2>
       <h4>payment result:</h4>
       {Object.keys(payment).map((key) => {
         const value = payment[key];

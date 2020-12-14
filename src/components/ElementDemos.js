@@ -23,6 +23,7 @@ const ElementDemos = ({ demos }) => {
 
   return (
     <div className="DemoWrapper">
+      <h2>Step 1: Choose the type</h2>
       <div className="DemoPickerWrapper">
         <select
           className="DemoPicker"
@@ -38,11 +39,11 @@ const ElementDemos = ({ demos }) => {
           ))}
         </select>
       </div>
-      <h1>Step 1</h1>
-      <button onClick={fetchClientSecret}>get payment intent</button>
+      <h2>Step 2: Get the information key from backend</h2>
+      <button onClick={fetchClientSecret}>Get</button>
       <p>CLIENT_SECRET:</p>
       <p>{itent}</p>
-      <h1>Step 2</h1>
+      <h2>Step 3: Enter the card information</h2>
       <Switch>
         <Redirect to={demos[0].path} from="/" exact />
         {demos.map(({ path, component: Component }) => (
