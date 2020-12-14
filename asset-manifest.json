@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/stripeTest-react-node/static/css/main.349a0988.chunk.css",
+    "main.js": "/stripeTest-react-node/static/js/main.4839fd55.chunk.js",
+    "main.js.map": "/stripeTest-react-node/static/js/main.4839fd55.chunk.js.map",
+    "runtime-main.js": "/stripeTest-react-node/static/js/runtime-main.333a0181.js",
+    "runtime-main.js.map": "/stripeTest-react-node/static/js/runtime-main.333a0181.js.map",
+    "static/js/2.c05e4448.chunk.js": "/stripeTest-react-node/static/js/2.c05e4448.chunk.js",
+    "static/js/2.c05e4448.chunk.js.map": "/stripeTest-react-node/static/js/2.c05e4448.chunk.js.map",
+    "index.html": "/stripeTest-react-node/index.html",
+    "precache-manifest.34370883ba50490d9b7b725fb1b37c4c.js": "/stripeTest-react-node/precache-manifest.34370883ba50490d9b7b725fb1b37c4c.js",
+    "service-worker.js": "/stripeTest-react-node/service-worker.js",
+    "static/css/main.349a0988.chunk.css.map": "/stripeTest-react-node/static/css/main.349a0988.chunk.css.map",
+    "static/js/2.c05e4448.chunk.js.LICENSE.txt": "/stripeTest-react-node/static/js/2.c05e4448.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333a0181.js",
+    "static/js/2.c05e4448.chunk.js",
+    "static/css/main.349a0988.chunk.css",
+    "static/js/main.4839fd55.chunk.js"
+  ]
+}
