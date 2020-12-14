@@ -10,10 +10,7 @@ import CardForm from "./components/demos/CardForm";
 import SplitForm from "./components/demos/SplitForm";
 
 import "./styles.css";
-
-const stripePromise = loadStripe(
-  "pk_test_51Hx6rgJm09sZXIFALmaQ3iRq7bWLvclF97l5F0u7HYziO21ndGIuJHFqnAE4VwRhQRwbE13c0s05id7y1Kvqdj1N00SfVSpCFc"
-);
+const stripePromise = loadStripe(process.env.REACT_APP_API_KEY);
 
 const demos = [
   {
