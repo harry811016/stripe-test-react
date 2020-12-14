@@ -1,6 +1,6 @@
 # stripe-test-react-node
 
-## this project is just to know stripe return object
+## this project is just to know the object return from Stripe
 
 [GitHub Page](https://harry811016.github.io/stripe-test-react-node/) 
 
